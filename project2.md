@@ -1,4 +1,4 @@
-## Project 2 LEMP Implementation
+## Project2 LEMP Implementation
 
 `sudo apt update``sudo apt install nginx`
 `sudo systemctl status nginx`
