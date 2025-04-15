@@ -1,4 +1,4 @@
-## Project2 LEMP (Linux nginx MySQL PHP) Implementation
+# (Linux nginx MySQL PHP) LEMP Implementation
 
 `sudo apt update``sudo apt install nginx`
 `sudo systemctl status nginx`
